@@ -27,3 +27,8 @@ App feito em React que consome a API do OpenWeatherMap para mostrar temperatura 
 
 ### 💬 Autor
 Desenvolvido por [Mateus Lima](https://github.com/Mateus642156)
+
+### 🌍 Demonstração
+Confira o projeto online: [https://clima-react-appnetlify.netlify.app](https://clima-react-appnetlify.netlify.app)
+
+
