@@ -4,11 +4,13 @@
 ## 🌤️ Aplicativo de Reação Climática
 App feito em React que consome a API do OpenWeatherMap para mostrar temperatura e condições do clima em tempo real.
 
-    ### 🧠 O que aprendi
+    ### 💡 O que aprendi
 - Integração de APIs com Axios
 - Manipulação de estados e componentes React
 - Configuração de ambiente com Vite
 - Deploy automatizado com Netlify
+
+- “Cada projeto é uma oportunidade de aprender algo novo e evoluir como desenvolvedor.”
 
 
 ### 🚀 Como executar
